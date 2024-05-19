@@ -6,7 +6,7 @@ Task 1 and Task 2 have been done on same code file
 All the images were generated using MS Paint. I tried to keep the inputs varying in size and colour to test the model's real-world performance.
 
 | Sr No.    |  Digit (Image) | Actual Class | Predicted Class |
-|---------|--------------|:-----------------:|:--------------------:|:----------------------:|
+|---------|--------------|:--------------------:|:----------------------:|
 | 1       | <img src="digits/digit_0.png"  />   | 0  | 2    |
 | 2       | <img src="digits/digit_1.png"  />   | 1  | 9    |
 | 3       | <img src="digits/digit_2.png"  />   | 2  | 5    |
